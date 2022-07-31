@@ -8,6 +8,7 @@ function List({ todos, setTodos }) {
       return todo.id !== todoId;
     });
     setTodos(newTodos);
+    console.log(newTodos);
   };
   const onEditHander = (todoId) => {
     const newTodos = todos.map((todo) => {

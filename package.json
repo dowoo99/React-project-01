@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "create-react-app": "^5.0.1",
-    "global": "^4.4.0"
+    "global": "^4.4.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "redux": "^4.2.0",
+    "styled-components": "^5.3.5"
   }
 }
